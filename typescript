@@ -1,0 +1,27 @@
+Script started on 2024-01-31 11:22:25+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="204" LINES="50"]
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ15[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ15[00m$ vagrant ssh[1Pupnano Vagrantfile[6Pvagrant upnano Vagrantfilewget https://vagrantcloud.com/centos/boxes/stream8/versions/20230710.0/providers/virtualbox/unknown/vagrant.box[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvagrant up[Knano Vagrantfilels[Kcurl ifconfig.me[6Pping ya.rucurl igconfig.me[6Pvagrant upcurl igconfig.me[6Pping ya.rucurl ifconfig.mels[Knano Vagrantfile[6Pvagrant upwget https://vagrantcloud.com/centos/boxes/stream8/versions/20230710.0/providers/virtualbox/unknown/vagrant.box[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano Vagrantfile[K[6Pvagrant upnano Vagrantfile[6Pvagrant upssh[Kssh otus@192.168.56.10
+[?2004lThe authenticity of host '192.168.56.10 (192.168.56.10)' can't be established.
+ED25519 key fingerprint is SHA256:CV/CYTsGV2NUOXO7iqmV9f2dOAByA0yFxbJONrqrL+s.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '192.168.56.10' (ED25519) to the list of known hosts.
+otus@192.168.56.10's password: 
+]0;otus@pam:~[?1034h[otus@pam ~]$ exit
+logout
+Connection to 192.168.56.10 closed.
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ15[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ15[00m$ vagrant ssh
+[?2004l]0;vagrant@pam:~[?1034h[vagrant@pam ~]$ sudo date 082712302022.00
+Sat Aug 27 12:30:00 UTC 2022
+]0;vagrant@pam:~[vagrant@pam ~]$ exit
+logout
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ15[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ15[00m$ vagrant sshssh otus@192.168.56.10
+[?2004lotus@192.168.56.10's password: 
+Permission denied, please try again.
+otus@192.168.56.10's password: 
+Permission denied, please try again.
+otus@192.168.56.10's password: 
+
+[?2004h]0;alexey@UbuntuOTUS: ~/DZ15[01;32malexey@UbuntuOTUS[00m:[01;34m~/DZ15[00m$ exit
+[?2004lexit
+
+Script done on 2024-01-31 11:23:55+03:00 [COMMAND_EXIT_CODE="130"]
